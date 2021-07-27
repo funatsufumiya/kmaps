@@ -1,2 +1,3 @@
 *.kmap.gz
 *.gz
+.DS_Store
